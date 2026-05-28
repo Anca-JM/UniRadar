@@ -1,1 +1,18 @@
-Hola
+=========================================
+DOCUMENTACIÓN TÉCNICA: UNIRADAR UNACH
+=========================================
+
+1. FUNCIONES PRINCIPALES:
+- Motor de Precios: Base de datos centralizada para visualizar el menú y precios de todos los bares de la UNACH en tiempo real.
+- Radar de Eventos Inteligente: Sistema de alertas para localizar eventos académicos y extracurriculares.
+- Filtro de Incentivos: Mapeo espacial de eventos que incluyen refrigerios o ingresos gratuitos.
+
+2. VENTAJAS COMPETITIVAS:
+- Optimización Financiera: El estudiante planifica su gasto exacto antes de salir de clases.
+- Recuperación de Tiempo: Elimina la necesidad de hacer filas a ciegas para preguntar qué hay de comer.
+- Integración Académica: Conecta de manera eficiente la oferta de eventos con la demanda estudiantil.
+
+3. POSIBLES MEJORAS FUTURAS:
+- Integración de algoritmos de recomendación basados en el historial del estudiante.
+- Bot en Telegram o WhatsApp para consultas rápidas del menú diario sin entrar a la web.
+- Sistema de analítica de datos para que los dueños de los bares proyecten su demanda diaria.
